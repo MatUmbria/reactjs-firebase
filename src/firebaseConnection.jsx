@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBeZV-s4e9xA4Hso5JuKOAxEX8IOav28Bw",
+  apiKey: "",
   authDomain: "curso-dc8a5.firebaseapp.com",
   projectId: "curso-dc8a5",
   storageBucket: "curso-dc8a5.firebasestorage.app",
