@@ -4,12 +4,12 @@ import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
   apiKey: "",
-  authDomain: "curso-dc8a5.firebaseapp.com",
-  projectId: "curso-dc8a5",
-  storageBucket: "curso-dc8a5.firebasestorage.app",
-  messagingSenderId: "385039155068",
-  appId: "1:385039155068:web:f44a6f1dc33d2f05e8eef9",
-  measurementId: "G-H95DG5R7BB"
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
